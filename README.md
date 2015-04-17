@@ -3,7 +3,7 @@ Project of Feet On Street
 Main requirement for this project is setting up a server with Database name "tracker", a Table name "boy", with have five column name as following:
 Column Name      
 
-#	Name	              Type	
+	Name	              Type	
 
 1	name	              text	
 
